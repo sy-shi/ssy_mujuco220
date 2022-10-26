@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "\"*.m\"": "\"matlab\"",
+        "*.ino": "c",
+        "xlocale": "cpp"
+    }
+    // "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}

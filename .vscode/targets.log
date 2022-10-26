@@ -1,0 +1,338 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.82.90
+# Built for i686-pc-mingw32
+# Copyright (C) 1988-2012 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Thu Jun 23 08:33:52 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# environment
+ROSE_DB = D:\Shared\Schemas
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := d:/mujoco220
+# default
+SHELL := sh.exe
+# environment
+GUROBI_HOME = D:\gurobi911\win64
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"bbca1a7059cee8a1b93da8947fee1c4f.zh-cn","_translationsConfigFile":"C:\\Users\\Administrator\\AppData\\Roaming\\Code\\clp\\bbca1a7059cee8a1b93da8947fee1c4f.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\Administrator\\AppData\\Roaming\\Code\\clp\\bbca1a7059cee8a1b93da8947fee1c4f.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\Administrator\\AppData\\Roaming\\Code\\clp\\bbca1a7059cee8a1b93da8947fee1c4f.zh-cn\\30d9c6cd9483b2cc586687151bcbcd635f373630","_corruptedFile":"C:\\Users\\Administrator\\AppData\\Roaming\\Code\\clp\\bbca1a7059cee8a1b93da8947fee1c4f.zh-cn\\corrupted.info","_languagePackSupport":true}
+# environment
+ONEDRIVE = D:\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile
+MAKEFILE_LIST := 
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\ADMINI~1\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-4ac75367-9dc8-4a27-92f9-718d8b0a5326-sock
+# environment
+VSCODE_CWD = D:\Microsoft VS Code
+# environment
+ARDUINO = C:\Users\Administrator\Arduino
+# environment
+PATH = C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\VMware\VMware Workstation\bin\;D:\gurobi911\win64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\MATLAB\R2021b\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe;D:\ANACONDA;D:\ANACONDA\Library\bin;D:\ANACONDA\Library\mingw-w64\bin;D:\ANACONDA\Scripts;D:\LaTeX\texlive\2020\bin\win32;C:\Program Files\dotnet\;D:\Git\cmd;C:\Program Files\Pandoc\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Admas2020(64bit)\bin;D:\Shared\UTILIT~1;D:\WinOLPC\bin;D:\Graphviz\bin;D:\GraphViz\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python39\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\MinGW\bin;D:\LaTeX\texlive\2020\bin\win32;
+# environment
+SW_SIM_HYDRA = C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker Agent\
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\Administrator
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = f 
+alse
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver
+# automatic
+%F = $(notdir $%)
+# default
+MAKEFILES := 
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10868_VAQYSQNTRUSSESQQ
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+GRAPHVIZ_INSTALL_DIR = D:\Graphviz
+# environment
+COMPUTERNAME = SSY-THINKPAD
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ASL.LOG = Destination=file
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Administrator
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Administrator\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\SSY-THINKPAD
+# environment
+ONEDRIVECONSUMER = D:\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+ADAMS_GUI_LOCALE = Chinese
+# environment
+USERDOMAIN = SSY-THINKPAD
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 3.82.90
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\Administrator\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\9e7283c68e6159fd1e9872b65f264be5-1.68.1-main-sock
+# environment
+HOMEPATH = \Users\Administrator
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# environment
+MSCLIC_INI = C:\Program Files\MSC.Software\MSC Licensing\Helium\msclic.ini
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\Administrator\AppData\Roaming
+# environment
+TEMP = C:\Users\ADMINI~1\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+GRAPHVIZ_DOT = D:\Graphviz\bin\dot.exe
+# automatic
+<F = $(notdir $<)
+# environment
+GRB_LICENSE_FILE = D:\gurobi911\gurobi.lic
+# environment
+LC_ALL = C
+# environment
+SW_SIM_TEMP = C:\ProgramData\SOLIDWORKS\SW_net_sim_temp\
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = a502
+# environment
+SW_SIM_MPIT = INTELMPI
+# default
+.INCLUDE_DIRS = C:/MinGW/include
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 10868
+# environment
+USERDOMAIN_ROAMINGPROFILE = SSY-THINKPAD
+# variable set hash-table stats:
+# Load=105/1024=10%, Rehash=0, Collisions=14/121=12%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# D:\gurobi911\win64\bin (key D:/gurobi911/win64/bin, mtime 1611542847): 16 files, no impossibilities.
+# D:\ANACONDA (key D:/ANACONDA, mtime 1655514297): 97 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn/, mtime 1636629901): 6 files, no impossibilities.
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1612358480): 31 files, no impossibilities.
+# . (key d:/mujoco220, mtime 1655944337): 10 files, no impossibilities.
+# D:\Microsoft VS Code\bin (key D:/Microsoft VS Code/bin, mtime 1655779615): 4 files, no impossibilities.
+# D:\ANACONDA\Library\bin (key D:/ANACONDA/Library/bin, mtime 1611544091): 402 files, no impossibilities.
+# D:\Admas2020(64bit)\bin (key D:/Admas2020(64bit)/bin, mtime 1637152074): 5 files, no impossibilities.
+# C:\Users\Administrator\AppData\Local\Programs\Python\Python39\ (key C:/Users/Administrator/AppData/Local/Programs/Python/Python39/, mtime 1611133198): 18 files, no impossibilities.
+# D:\Graphviz\bin (key D:/Graphviz/bin, mtime 1652346988): 62 files, no impossibilities.
+# D:\ANACONDA\Scripts (key D:/ANACONDA/Scripts, mtime 1648280598): 304 files, no impossibilities.
+# C:\Users\Administrator\AppData\Local\Programs\Python\Python39\Scripts\ (key C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Scripts/, mtime 1611456735): 13 files, no impossibilities.
+# D:\Shared\UTILIT~1: could not be stat'd.
+# D:\ANACONDA\Library\mingw-w64\bin (key D:/ANACONDA/Library/mingw-w64/bin, mtime 1611540661): 15 files, no impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1636630021): 5 files, no impossibilities.
+# C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ (key C:/Pr 
+ogram Files (x86)/Microsoft SQL Server/120/Tools/Binn/, mtime 1636629895): 12 files, no impossibilities.
+# C:\MinGW\bin (key C:/MinGW/bin, mtime 1655774250): 60 files, no impossibilities.
+# C:\Program Files\Pandoc\ (key C:/Program Files/Pandoc/, mtime 1632374330): 6 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\120\DTS\Binn\ (key C:/Program Files/Microsoft SQL Server/120/DTS/Binn/, mtime 1636629901): 38 files, no impossibilities.
+# C:\WINDOWS (key C:/WINDOWS, mtime 1655940854): 135 files, no impossibilities.
+# D:\GraphViz\bin (key D:/GraphViz/bin, mtime 1652346988): 62 files, no impossibilities.
+# C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps (key C:/Users/Administrator/AppData/Local/Microsoft/WindowsApps, mtime 1655870721): 13 files, no impossibilities.
+# D:\Git\cmd (key D:/Git/cmd, mtime 1622908178): 8 files, no impossibilities.
+# D:\WinOLPC\bin: could not be stat'd.
+# C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1655577646): 155 files, no impossibilities.
+# C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\ (key C:/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/, mtime 1636629950): 73 files, no impossibilities.
+# C:\Program Files\dotnet\ (key C:/Program Files/dotnet/, mtime 1618719509): 8 files, no impossibilities.
+# D:\VMware\VMware Workstation\bin\ (key D:/VMware/VMware Workstation/bin/, mtime 1614851866): 4 files, no impossibilities.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1655773847): 3131 files, no impossibilities.
+# D:\LaTeX\texlive\2020\bin\win32 (key D:/LaTeX/texlive/2020/bin/win32, mtime 1611842550): 538 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\120\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/120/Tools/Binn/, mtime 1636629895): 14 files, no impossibilities.
+# C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe (key C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe, mtime 1607335946): could not be opened.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
+# D:\MATLAB\R2021b\bin (key D:/MATLAB/R2021b/bin, mtime 1651660932): 16 files, no impossibilities.
+
+# 5261 files, no impossibilities in 34 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/15=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 10 (8) / strings = 4982 / storage = 75535 B / avg = 15 B
+# current buf: size = 8174 B / used = 2041 B / count = 119 / avg = 17 B
+# other used: total = 67361 B / count = 4863 / avg = 13 B
+# other free: total = 72 B / max = 17 B / min = 2 B / avg = 8 B
+
+# strcache performance: lookups = 5303 / hit rate = 6%
+# hash-table stats:
+# Load=4982/8192=61%, Rehash=0, Collisions=3115/5303=59%
+# Finished Make data base on Thu Jun 23 08:33:52 2022
+
+ 
+make.exe: *** No rule to make target 'all'.  Stop.
+

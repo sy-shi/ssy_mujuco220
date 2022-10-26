@@ -1,7 +1,3 @@
-# ssy_mujuco220
-
-> This is a repository I created to learn mujoco C++/Python and its combination with OpenAI Gym.
-
 https://mujoco.readthedocs.io/en/latest/overview.html
 
 https://www.youtube.com/playlist?list=PLc7bpbeTIk758Ad3fkSywdxHWpBh9PM0G
@@ -38,13 +34,13 @@ simulate ../model/tendon_arm/arm26.xml
 
 #### File structure
 
-![image-20220621135610767](README.assets/image-20220621135610767.png)
+![image-20220621135610767](learn mujoco.assets/image-20220621135610767.png)
 
 source codes
 
 - head files
 
-![image-20220621145758591](README.assets/image-20220621145758591.png)
+![image-20220621145758591](learn mujoco.assets/image-20220621145758591.png)
 
 
 
@@ -162,8 +158,6 @@ void controller(const mjModel * m, mjData * d)
 ## MuJoCo with Gym
 
 #### install
-
-> install gym environments
 
 ```shell
 (base)>conda create -n mujoco

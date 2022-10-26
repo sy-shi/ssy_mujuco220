@@ -1,0 +1,50 @@
+Thu Jun 23 08:57:37 2022
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=ball.xml
+
+
+Thu Jun 23 08:58:49 2022
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=ball.xml
+
+
+Thu Jun 23 08:59:32 2022
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=ball.xml
+
+
+Thu Jun 23 17:48:58 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0160.
+
+Thu Jun 23 17:49:21 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0160.
+
+Thu Jun 23 17:49:38 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 7. The simulation is unstable. Time = 0.0160.
+
+Thu Jun 23 17:50:04 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:05 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:05 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:05 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:05 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:06 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 17:50:06 2022
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0460.
+
+Thu Jun 23 20:44:15 2022
+ERROR: Load model error: XML Error: invalid keyword: 'sphere1'
+Element 'geom', line 32
+
+
